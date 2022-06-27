@@ -1,0 +1,106 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Newsreader", serif;
+}
+
+body {
+  background-color: rgb(29, 29, 29);
+  background-image: url(news-pattern.jpg);
+}
+
+h1 {
+  color: rgb(160, 160, 160);
+  text-align: center;
+  font-size: 60px;
+  font-weight: 400;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.Classifier-box {
+  height: 900px;
+  width: 800px;
+  margin-top: 20px;
+  padding-top: 100px;
+  border-radius: 3%;
+  background-color: rgb(44, 44, 44, 0.8);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.7);
+  display: grid;
+}
+
+.text-box {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.text-box #input {
+  resize: none;
+  font-size: 18px;
+  width: 600px;
+  height: 200px;
+  padding: 10px;
+  border-radius: 15px 50px 30px;
+  box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.3);
+  outline: none;
+}
+
+.classify-btn {
+  text-align: center;
+  align-self: start;
+}
+
+.classify-btn #btn {
+  padding: 20px;
+  border: solid 1px transparent;
+  font-size: 16px;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: rgb(160, 160, 160);
+  background-color: rgb(0 0 0);
+  border-radius: 8%;
+  box-shadow: 0 5px 10px rgb(0 0 0 / 50%);
+}
+
+.classify-btn #btn:hover,
+.classify-btn #btn:active {
+  cursor: pointer;
+  box-shadow: none;
+  color: white;
+  border-color: #767676;
+  background-color: transparent;
+}
+
+.classify-btn #btn:active {
+  filter: brightness(0.5);
+}
+
+.result-box {
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.result-box #result {
+  cursor: help;
+  font-size: 40px;
+  height: 74px;
+  padding: 10px 5px 0 5px;
+  color: rgb(160, 160, 160);
+  text-align: center;
+  border-radius: 10px;
+  border: none;
+  box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.3);
+  background-color: rgb(90 90 90);
+  outline: none;
+}
+
+footer {
+  align-self: end;
+  color: rgb(160, 160, 160);
+  margin-left: 15px;
+  margin-bottom: 5px;
+}
