@@ -49,4 +49,4 @@ python3 main.py
 
 6. Open your browser at `localhost:8080`  
 
-![webapp](./docs/webapp.jfif)
+![image](https://user-images.githubusercontent.com/76474133/176117769-4a91579a-e55d-481e-8057-2108a164baef.png)
