@@ -22,7 +22,7 @@ In our research we focus on 7 categories:
 
 We created a web application for our model, in this secion we will describe how to get started with the web application.
 
-1.  Open the project in you IDE:  
+1.  Open the project (or just the web app folder) in your IDE :  
 ```
 git clone https://github.com/efi1397/HIT.DataScience.FinalProject.git
 ```
