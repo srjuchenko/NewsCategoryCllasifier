@@ -49,4 +49,7 @@ python3 main.py
 
 6. Open your browser at `localhost:8080`  
 
+## Demo:
+![image](https://user-images.githubusercontent.com/76474133/202504137-0d2d2b85-4b6c-428f-b414-1ce980313b30.png)
+
 ![image](https://user-images.githubusercontent.com/76474133/176117769-4a91579a-e55d-481e-8057-2108a164baef.png)
