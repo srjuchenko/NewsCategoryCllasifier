@@ -50,6 +50,7 @@ python3 main.py
 6. Open your browser at `localhost:8080`  
 
 ## Demo:
-![image](https://user-images.githubusercontent.com/76474133/202504137-0d2d2b85-4b6c-428f-b414-1ce980313b30.png)
+![1657101308410](https://user-images.githubusercontent.com/76474133/202504477-8cac7fd0-ddbc-46f3-920f-593d51ee0d9f.gif)
+
 
 ![image](https://user-images.githubusercontent.com/76474133/176117769-4a91579a-e55d-481e-8057-2108a164baef.png)
